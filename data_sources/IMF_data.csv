@@ -1,156 +1,195 @@
-﻿Developed Countries,Developing Countries
-Australia,Afghanistan
-Austria,Albania
-Belgium,Algeria
-Canada,Angola
-Cyprus,Antigua and Barbuda
-Czech Republic,Argentina
-Denmark,Armenia
-Estonia,Aruba
-Finland,Azerbaijan
-France,The Bahamas
-Germany,Bahrain
-Greece,Bangladesh
-Hong Kong SAR,Barbados
-Iceland,Belarus
-Ireland,Belize
-Israel,Benin
-Italy,Bhutan
-Japan,Bolivia
-Korea,Bosnia and Herzegovina
-Latvia,Botswana
-Lithuania,Brazil
-Luxembourg,Brunei Darussalam
-Macao SAR,Bulgaria
-Malta,Burkina Faso
-Netherlands,Burundi
-New Zealand,Cabo Verde
-Norway,Cambodia
-Portugal,Cameroon
-Puerto Rico,Central African Republic
-San Marino,Chad
-Singapore,Chile
-Slovak Republic,China
-Slovenia,Colombia
-Spain,Comoros
-Sweden,Democratic Republic of the Congo
-Switzerland,Republic of Congo
-Taiwan Province of China,Costa Rica
-United Kingdom,Côte d'Ivoire
-United States,Croatia
-,Djibouti
-,Dominica
-,Dominican Republic
-,Ecuador
-,Egypt
-,El Salvador
-,Equatorial Guinea
-,Eritrea
-,Eswatini
-,Ethiopia
-,Fiji
-,Gabon
-,The Gambia
-,Georgia
-,Ghana
-,Grenada
-,Guatemala
-,Guinea
-,Guinea-Bissau
-,Guyana
-,Haiti
-,Honduras
-,Hungary
-,India
-,Indonesia
-,Iran
-,Iraq
-,Jamaica
-,Jordan
-,Kazakhstan
-,Kenya
-,Kiribati
-,Kosovo
-,Kuwait
-,Kyrgyz Republic
-,Lao P.D.R.
-,Lebanon
-,Lesotho
-,Liberia
-,Libya
-,Madagascar
-,Malawi
-,Malaysia
-,Maldives
-,Mali
-,Marshall Islands
-,Mauritania
-,Mauritius
-,Mexico
-,Micronesia
-,Moldova
-,Mongolia
-,Montenegro
-,Morocco
-,Mozambique
-,Myanmar
-,Namibia
-,Nauru
-,Nepal
-,Nicaragua
-,Niger
-,Nigeria
-,North Macedonia
-,Oman
-,Pakistan
-,Palau
-,Panama
-,Papua New Guinea
-,Paraguay
-,Peru
-,Philippines
-,Poland
-,Qatar
-,Romania
-,Russia
-,Rwanda
-,Samoa
-,São Tomé and Príncipe
-,Saudi Arabia
-,Senegal
-,Serbia
-,Seychelles
-,Sierra Leone
-,Solomon Islands
-,Somalia
-,South Africa
-,South Sudan
-,Sri Lanka
-,St. Kitts and Nevis
-,St. Lucia
-,St. Vincent and the Grenadines
-,Sudan
-,Suriname
-,Syria
-,Tajikistan
-,Tanzania
-,Thailand
-,Timor-Leste
-,Togo
-,Tonga
-,Trinidad and Tobago
-,Tunisia
-,Turkey
-,Turkmenistan
-,Tuvalu
-,Uganda
-,Ukraine
-,United Arab Emirates
-,Uruguay
-,Uzbekistan
-,Vanuatu
-,Venezuela
-,Vietnam
-,Yemen
-,Zambia
-,Zimbabwe
+﻿country,country classification
+Australia,Developed Countries
+Austria,Developed Countries
+Belgium,Developed Countries
+Canada,Developed Countries
+Cyprus,Developed Countries
+Czech Republic,Developed Countries
+Denmark,Developed Countries
+Estonia,Developed Countries
+Finland,Developed Countries
+France,Developed Countries
+Germany,Developed Countries
+Greece,Developed Countries
+Hong Kong SAR,Developed Countries
+Iceland,Developed Countries
+Ireland,Developed Countries
+Israel,Developed Countries
+Italy,Developed Countries
+Japan,Developed Countries
+Korea,Developed Countries
+Latvia,Developed Countries
+Lithuania,Developed Countries
+Luxembourg,Developed Countries
+Macao SAR,Developed Countries
+Malta,Developed Countries
+Netherlands,Developed Countries
+New Zealand,Developed Countries
+Norway,Developed Countries
+Portugal,Developed Countries
+Puerto Rico,Developed Countries
+San Marino,Developed Countries
+Singapore,Developed Countries
+Slovak Republic,Developed Countries
+Slovenia,Developed Countries
+Spain,Developed Countries
+Sweden,Developed Countries
+Switzerland,Developed Countries
+Taiwan Province of China,Developed Countries
+United Kingdom,Developed Countries
+United States,Developed Countries
+Afghanistan,Developing Countries
+Albania,Developing Countries
+Algeria,Developing Countries
+Angola,Developing Countries
+Antigua and Barbuda,Developing Countries
+Argentina,Developing Countries
+Armenia,Developing Countries
+Aruba,Developing Countries
+Azerbaijan,Developing Countries
+The Bahamas,Developing Countries
+Bahrain,Developing Countries
+Bangladesh,Developing Countries
+Barbados,Developing Countries
+Belarus,Developing Countries
+Belize,Developing Countries
+Benin,Developing Countries
+Bhutan,Developing Countries
+Bolivia,Developing Countries
+Bosnia and Herzegovina,Developing Countries
+Botswana,Developing Countries
+Brazil,Developing Countries
+Brunei Darussalam,Developing Countries
+Bulgaria,Developing Countries
+Burkina Faso,Developing Countries
+Burundi,Developing Countries
+Cabo Verde,Developing Countries
+Cambodia,Developing Countries
+Cameroon,Developing Countries
+Central African Republic,Developing Countries
+Chad,Developing Countries
+Chile,Developing Countries
+China,Developing Countries
+Colombia,Developing Countries
+Comoros,Developing Countries
+Democratic Republic of the Congo,Developing Countries
+Republic of Congo,Developing Countries
+Costa Rica,Developing Countries
+Côte d'Ivoire,Developing Countries
+Croatia,Developing Countries
+Djibouti,Developing Countries
+Dominica,Developing Countries
+Dominican Republic,Developing Countries
+Ecuador,Developing Countries
+Egypt,Developing Countries
+El Salvador,Developing Countries
+Equatorial Guinea,Developing Countries
+Eritrea,Developing Countries
+Eswatini,Developing Countries
+Ethiopia,Developing Countries
+Fiji,Developing Countries
+Gabon,Developing Countries
+The Gambia,Developing Countries
+Georgia,Developing Countries
+Ghana,Developing Countries
+Grenada,Developing Countries
+Guatemala,Developing Countries
+Guinea,Developing Countries
+Guinea-Bissau,Developing Countries
+Guyana,Developing Countries
+Haiti,Developing Countries
+Honduras,Developing Countries
+Hungary,Developing Countries
+India,Developing Countries
+Indonesia,Developing Countries
+Iran,Developing Countries
+Iraq,Developing Countries
+Jamaica,Developing Countries
+Jordan,Developing Countries
+Kazakhstan,Developing Countries
+Kenya,Developing Countries
+Kiribati,Developing Countries
+Kosovo,Developing Countries
+Kuwait,Developing Countries
+Kyrgyz Republic,Developing Countries
+Lao P.D.R.,Developing Countries
+Lebanon,Developing Countries
+Lesotho,Developing Countries
+Liberia,Developing Countries
+Libya,Developing Countries
+Madagascar,Developing Countries
+Malawi,Developing Countries
+Malaysia,Developing Countries
+Maldives,Developing Countries
+Mali,Developing Countries
+Marshall Islands,Developing Countries
+Mauritania,Developing Countries
+Mauritius,Developing Countries
+Mexico,Developing Countries
+Micronesia,Developing Countries
+Moldova,Developing Countries
+Mongolia,Developing Countries
+Montenegro,Developing Countries
+Morocco,Developing Countries
+Mozambique,Developing Countries
+Myanmar,Developing Countries
+Namibia,Developing Countries
+Nauru,Developing Countries
+Nepal,Developing Countries
+Nicaragua,Developing Countries
+Niger,Developing Countries
+Nigeria,Developing Countries
+North Macedonia,Developing Countries
+Oman,Developing Countries
+Pakistan,Developing Countries
+Palau,Developing Countries
+Panama,Developing Countries
+Papua New Guinea,Developing Countries
+Paraguay,Developing Countries
+Peru,Developing Countries
+Philippines,Developing Countries
+Poland,Developing Countries
+Qatar,Developing Countries
+Romania,Developing Countries
+Russia,Developing Countries
+Rwanda,Developing Countries
+Samoa,Developing Countries
+São Tomé and Príncipe,Developing Countries
+Saudi Arabia,Developing Countries
+Senegal,Developing Countries
+Serbia,Developing Countries
+Seychelles,Developing Countries
+Sierra Leone,Developing Countries
+Solomon Islands,Developing Countries
+Somalia,Developing Countries
+South Africa,Developing Countries
+South Sudan,Developing Countries
+Sri Lanka,Developing Countries
+St. Kitts and Nevis,Developing Countries
+St. Lucia,Developing Countries
+St. Vincent and the Grenadines,Developing Countries
+Sudan,Developing Countries
+Suriname,Developing Countries
+Syria,Developing Countries
+Tajikistan,Developing Countries
+Tanzania,Developing Countries
+Thailand,Developing Countries
+Timor-Leste,Developing Countries
+Togo,Developing Countries
+Tonga,Developing Countries
+Trinidad and Tobago,Developing Countries
+Tunisia,Developing Countries
+Turkey,Developing Countries
+Turkmenistan,Developing Countries
+Tuvalu,Developing Countries
+Uganda,Developing Countries
+Ukraine,Developing Countries
+United Arab Emirates,Developing Countries
+Uruguay,Developing Countries
+Uzbekistan,Developing Countries
+Vanuatu,Developing Countries
+Venezuela,Developing Countries
+Vietnam,Developing Countries
+Yemen,Developing Countries
+Zambia,Developing Countries
+Zimbabwe,Developing Countries
