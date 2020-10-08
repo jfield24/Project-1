@@ -1,4 +1,4 @@
-Country,year,"number of suicides (per 100,000 people)",health expenditure (per capita),country classification
+country,year,"number of suicides (per 100,000 people)",health expenditure (per capita),country classification
 Argentina,2006,8.652829601,447.3611755,Developing Countries
 Argentina,2007,8.112240363,551.75,Developing Countries
 Argentina,2008,8.327543889,694.6824341,Developing Countries
